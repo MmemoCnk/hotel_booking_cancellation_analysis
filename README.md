@@ -36,6 +36,7 @@ jupyter notebook Hotel_Booking_Cancellation_Analysis.ipynb
 ```
 hotel-cancellation-prediction/
 ├── Hotel_Booking_Cancellation_Analysis.ipynb  # Main analysis notebook
+├── hotel_booking_cancellation_analysis_and_prevention_strategy.py  # Main analysis python
 ├── hotel_bookings.csv                          # Dataset (119,390 bookings)
 └── README.md                                   # Project documentation
 ```
